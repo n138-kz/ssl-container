@@ -1,34 +1,34 @@
-# [_DEFAULTREPOS](https://github.com/n138-kz/_DEFAULTREPOS)
+# [ssl-container](https://github.com/n138-kz/ssl-container)
 
 ## github repository initial setup
 
-1. ["Actions secrets and variables"](https://github.com/n138-kz/_DEFAULTREPOS/settings/secrets/actions) > "Repository secrets" 移動し、`DISCORD_WEBHOOK_URL` を設定  
+1. ["Actions secrets and variables"](https://github.com/n138-kz/ssl-container/settings/secrets/actions) > "Repository secrets" 移動し、`DISCORD_WEBHOOK_URL` を設定  
   値は Discord webhook url を設定
 
 ## Repos Info
 
 <div align="center">
 
-  [![GitHub repo license](https://img.shields.io/github/license/n138-kz/_DEFAULTREPOS)](/LICENSE)
-  [![GitHub top language](https://img.shields.io/github/languages/top/n138-kz/_DEFAULTREPOS)](/../../)
-  [![GitHub repo size](https://img.shields.io/github/repo-size/n138-kz/_DEFAULTREPOS)](/../../)
-  [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/n138-kz/_DEFAULTREPOS)](/../../)
+  [![GitHub repo license](https://img.shields.io/github/license/n138-kz/ssl-container)](/LICENSE)
+  [![GitHub top language](https://img.shields.io/github/languages/top/n138-kz/ssl-container)](/../../)
+  [![GitHub repo size](https://img.shields.io/github/repo-size/n138-kz/ssl-container)](/../../)
+  [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/n138-kz/ssl-container)](/../../)
 
 </div>
 <div align="center">
 
-  [![GitHub last commit](https://img.shields.io/github/last-commit/n138-kz/_DEFAULTREPOS)](/../../commits)
-  [![GitHub commit activity](https://img.shields.io/github/commit-activity/w/n138-kz/_DEFAULTREPOS)](/../../commits)
-  [![GitHub commit activity](https://img.shields.io/github/commit-activity/t/n138-kz/_DEFAULTREPOS)](/../../commits)
-  [![GitHub language count](https://img.shields.io/github/languages/count/n138-kz/_DEFAULTREPOS)](/../../)
+  [![GitHub last commit](https://img.shields.io/github/last-commit/n138-kz/ssl-container)](/../../commits)
+  [![GitHub commit activity](https://img.shields.io/github/commit-activity/w/n138-kz/ssl-container)](/../../commits)
+  [![GitHub commit activity](https://img.shields.io/github/commit-activity/t/n138-kz/ssl-container)](/../../commits)
+  [![GitHub language count](https://img.shields.io/github/languages/count/n138-kz/ssl-container)](/../../)
 
 </div>
 <div align="center">
 
-  [![GitHub issues](https://img.shields.io/github/issues/n138-kz/_DEFAULTREPOS)](/../../issues)
-  [![GitHub issues closed](https://img.shields.io/github/issues-closed/n138-kz/_DEFAULTREPOS)](/../../issues)
-  [![GitHub pull requests](https://img.shields.io/github/issues-pr/n138-kz/_DEFAULTREPOS)](/../../pulls)
-  [![GitHub pull requests closed](https://img.shields.io/github/issues-pr-closed/n138-kz/_DEFAULTREPOS)](/../../pulls)
+  [![GitHub issues](https://img.shields.io/github/issues/n138-kz/ssl-container)](/../../issues)
+  [![GitHub issues closed](https://img.shields.io/github/issues-closed/n138-kz/ssl-container)](/../../issues)
+  [![GitHub pull requests](https://img.shields.io/github/issues-pr/n138-kz/ssl-container)](/../../pulls)
+  [![GitHub pull requests closed](https://img.shields.io/github/issues-pr-closed/n138-kz/ssl-container)](/../../pulls)
 
 </div>
 <div align="center">
@@ -44,7 +44,7 @@
 
 ## Refs
 
-- [![](https://www.google.com/s2/favicons?size=64&domain=https://github.com)_DEFAULTREPOS](https://github.com/n138-kz/_DEFAULTREPOS/)
+- [![](https://www.google.com/s2/favicons?size=64&domain=https://github.com)ssl-container](https://github.com/n138-kz/ssl-container/)
 
 ## License
 
