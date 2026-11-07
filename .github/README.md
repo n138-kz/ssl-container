@@ -1,10 +1,5 @@
 # [ssl-container](https://github.com/n138-kz/ssl-container)
 
-## github repository initial setup
-
-1. ["Actions secrets and variables"](https://github.com/n138-kz/ssl-container/settings/secrets/actions) > "Repository secrets" 移動し、`DISCORD_WEBHOOK_URL` を設定  
-  値は Discord webhook url を設定
-
 ## Repos Info
 
 <div align="center">
